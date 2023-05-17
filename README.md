@@ -3,7 +3,7 @@
 [![Status do Repositório](https://img.shields.io/badge/Repositório%20Status-Mantido-dark%20green.svg)](https://github.com/alexandresantosal91/gerador-de-senhas-)
 [![Status do Site](https://img.shields.io/badge/Website%20Status-Online-green)](https://alexandresantosal91.github.io/password-generator/)
 [![Autor](https://img.shields.io/badge/Autor-Alexandre%20Santos-blue.svg)](https://www.linkedin.com/in/alexandresantosal/)
-[![Lançamento Mais Recente](https://img.shields.io/badge/Latest%20Release-17%20maio%202023-yellow.svg)]()
+[![Lançamento Mais Recente](https://img.shields.io/badge/Latest%20Release-17%20maio%202023-yellow.svg)](https://github.com/alexandresantosal91/gerador-de-senhas-/commits/main)
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/alexandresantosal91/gerador-de-senhas-/blob/main/LICENSE)
 
 <p align="justify">O Gerador de Senhas Aleatórias é uma ferramenta poderosa que oferece uma camada extra de segurança para proteger suas informações online. Combinando letras maiúsculas e minúsculas, números e caracteres especiais, esse gerador cria sequências de caracteres únicas e praticamente impossíveis de serem adivinhadas.
